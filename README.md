@@ -1,3 +1,3 @@
 # gitslice-opensource-test
 
-SYNC TEST 1
+SYNC TEST 2
