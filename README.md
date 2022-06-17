@@ -1,3 +1,3 @@
 # gitslice-opensource-test
 
-sync update open src
+push test 4
