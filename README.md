@@ -1,3 +1,3 @@
 # gitslice-opensource-test-slice
 
-SYNC DEMO
+Open src update test
