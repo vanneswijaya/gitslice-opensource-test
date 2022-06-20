@@ -1,3 +1,3 @@
 # gitslice-opensource-test-slice
 
-Open src update test 2
+git push test 2
