@@ -1,3 +1,3 @@
 # gitslice-opensource-test-slice
 
-supertest
+supertest update
